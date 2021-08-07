@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @janki28
 - 👀 I’m interested in Augmented Reality and other emerging technologies.
-- 🌱 I’m currently learning how to make a small place for myself in the fast evolving world
-- 💞️ I’m looking to collaborate on anything that I believe(or you present me in a way that I believe) has the potential
+- 🌱 I’m currently learning how to learn, unlearn and relearn.
 - 📫 Drop me a mail on jankipatel1028@gmail.com 
 
 <!---
